@@ -31,6 +31,7 @@
   </dependencies>
   
   <build>
+    <finalName>${project.artifactId}</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugin</groupId>
@@ -42,6 +43,5 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>${project.artifactId}</finalName>
     </build>
 </project>
