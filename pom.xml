@@ -4,7 +4,7 @@
 
   <groupId>com.revise.basic.spring</groupId>
   <artifactId>SpringBasics</artifactId>
-  <version></version>
+  <version>1.0</version>
   <packaging>jar</packaging>
 
   <name>SpringBasics</name>
